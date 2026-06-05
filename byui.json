@@ -1,0 +1,26 @@
+
+              "hideTitle" : true,
+              "id" : "F3813CE2-8559-42F7-B727-0513FFDA209D",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/rmXWJDc5\/maxresdefault.jpg",
+              "title" : "Blumhouse"
+            },
+            {
+              "dataSources" : [
+
+              ],
+              "hideTitle" : true,
+              "id" : "CBCE0CCB-100E-474A-ADEB-A924C4802E17",
+              "imageAspect" : "wide",
+              "imageURL" : "https:\/\/i.postimg.cc\/sxVR54N9\/http-pbs-twimg-com-profile-images-1119394930097446912-ICb-Jx0di-0-1000-0-1000-crop.png",
+              "title" : "NEON"
+            }
+          ]
+        }
+      },
+      "id" : "collection.8c776ccc-d20b-45c2-a9ef-80c50469c2e9",
+      "title" : "Streaming Services",
+      "type" : "collection.row"
+    }
+  ]
+}
