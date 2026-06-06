@@ -1,0 +1,20 @@
+[
+  {
+    "id": "13CEBC6C-0446-4FE3-86C0-5C30BB7DF858",
+    "title": "Blumhouse",
+    "videoURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion/main/blumhouse.mp4",
+    "backgroundURL": "https://i.postimg.cc/3RL4khYT/Blumhouse.jpg"
+  },
+  {
+    "id": "15114A76-4959-4AAB-9D12-2AA99103F171",
+    "title": "NEON",
+    "videoURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion/main/NEON.mp4",
+    "backgroundURL": "https://i.postimg.cc/sxVR54N9/http-pbs-twimg-com-profile-images-1119394930097446912-ICb-Jx0di-0-1000-0-1000-crop.png"
+  },
+  {
+    "id": "63DBC764-715D-4C55-A28A-924509F40D65",
+    "title": "Legendary",
+    "videoURL": "https://raw.githubusercontent.com/SomeOrdinarySinner/fusion/main/Legendary.mp4",
+    "backgroundURL": "https://i.postimg.cc/sDjDGq1m/legendary-pictures-logo.jpg"
+   }
+]
